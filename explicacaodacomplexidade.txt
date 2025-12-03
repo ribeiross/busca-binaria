@@ -1,0 +1,1 @@
+A busca binária apresenta a complexidade de O(log n), devido ao fato de que é apenas a maneira matemática de representar a quantidade de vezes que é necessário dividir um número n pela metade até sobrar apenas 1.
